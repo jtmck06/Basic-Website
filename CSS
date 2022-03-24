@@ -1,0 +1,58 @@
+body{
+  background-color: #f7f6e7;
+  font-family:"Montserrat",sans-serif;
+  margin:auto;
+  width:85%;
+}
+h1{
+  color:#424642;
+  font-size: 2rem;
+}
+span{
+  font-weight: lighter;
+  font-style:italic;
+}
+h2{
+  color: #424642;
+  font-size: 1.75rem;
+  padding-top: 200px;
+  text-align:center;
+}
+.introText{
+  margin: auto;
+  color:#424642;
+  font-size: 1.5rem;
+  line-height: 1.5;
+  text-align: left;
+}
+.intro{
+  padding-top:200px;
+}
+.introImg{
+  float: right;
+  margin-left:75px
+}
+.introImg img{
+  width:55%;
+  position:relative;
+  left:125px;
+}
+.githubWork{
+  display: inline-block;
+  width:45%;
+}
+.githubWork ul{
+  color:#424642;
+  line-height: 1.75;
+  font-size: 1.375rem;
+}
+.workImg{
+  display: inline-block;
+  padding-top:35px;
+  position: relative;
+  left:15%;
+}
+.workImg img{
+  height: 300px;
+  width: 400px;
+}
